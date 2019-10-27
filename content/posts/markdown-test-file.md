@@ -5,6 +5,7 @@ published: true
 tags:
   - Markdown
   - Test files
+series: false
 canonical_url: false
 description: >-
   Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
