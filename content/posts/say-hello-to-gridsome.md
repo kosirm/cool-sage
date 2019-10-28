@@ -1,5 +1,5 @@
 ---
-title: "Say hello to Gridsome \U0001F389"
+title: "Say hello to Gridsome \U0001F389 Hello!"
 date: '2019-02-07'
 tags:
   - Markdown
